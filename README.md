@@ -120,7 +120,8 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-
+## License
+                                   
 License Free.
 
 ## Contact
@@ -147,5 +148,5 @@ Project Link: [https://github.com/jchernandez87/Leaderboard](https://github.com/
 [issues-url]: https://github.com/jchernandez87/Leaderboard/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/juan-carlos-hernandez-200a05175
-[product-screenshot]: https://user-images.githubusercontent.com/44485810/125539205-dcae2e4e-abcc-4270-b101-f4b3908e8f88.png
+[product-screenshot]: https://user-images.githubusercontent.com/44485810/127217147-02736d8e-7eb8-42f8-a225-5897ca8ab983.png
 
