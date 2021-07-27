@@ -1,3 +1,109 @@
-.hello {
-    color: red;
-  }
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  height: 60vh;
+  width: 60vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.title {
+  width: 100%;
+  font-size: 38px;
+}
+
+.bottom {
+  margin-top: 24px;
+  height: 80%;
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.left-div {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  margin-right: 15px;
+}
+
+.recent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.recent h2 {
+  font-size: 32px;
+  margin-right: 24px;
+}
+
+.recent button {
+  padding: 4px 20px;
+  border-radius: 2px;
+} 
+
+.score-list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  border: 2px solid black;
+}
+
+.score-list li {
+  padding: 8px;
+}
+
+.score-list li:nth-child(odd) {
+  background-color: #d6d6d6;
+}
+
+.score-list li:nth-child(even) {
+  background-color: white;
+}
+
+.right-div {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.right-div h2 {
+  font-size: 32px;
+}
+
+.form {
+  width: 90%;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+.form input {
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+.right-div button {
+  padding: 6px 20px;
+  border-radius: 2px;
+}
