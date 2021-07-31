@@ -5,6 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
+
 <br />
 <p align="center">
   <a href="https://github.com/jchernandez87/Leaderboard">
@@ -148,5 +149,5 @@ Project Link: [https://github.com/jchernandez87/Leaderboard](https://github.com/
 [issues-url]: https://github.com/jchernandez87/Leaderboard/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/juan-carlos-hernandez-200a05175
-[product-screenshot]: https://user-images.githubusercontent.com/44485810/127217147-02736d8e-7eb8-42f8-a225-5897ca8ab983.png
+[product-screenshot]: https://user-images.githubusercontent.com/44485810/127721496-8a365784-35fa-4042-889a-6e25fc6aafed.png
 

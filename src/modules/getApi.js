@@ -45,8 +45,10 @@ const getScores = async () => {
   const { result } = data;
   result.forEach((elem) => {
     const listItem = document.createElement('li');
+    listItem.classList.add('list-item');
     listItem.textContent = elem.user;
     const score = document.createElement('span');
+    score.classList.add('score-text');
     score.textContent = elem.score;
     listItem.appendChild(score);
     scoreList.appendChild(listItem);
